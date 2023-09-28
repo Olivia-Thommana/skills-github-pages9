@@ -1,6 +1,6 @@
 ---
-title: Welcome to  blog
-""hello guys
-welcome to my new blog
+title:" Welcome to  blog"
+date:2023-09-28
+
 ---
 
